@@ -8,7 +8,7 @@
     locations: ["Kampala", "Nairobi", "Dar es Salaam"],
     contact: {
       phone: "+256 708 317069",
-      email: "jephthahrecruitment@gmail.66com"
+      email: "jephthahrecruitment@gmail.com"
     }
   };
 
