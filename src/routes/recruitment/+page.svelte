@@ -7,7 +7,7 @@
       "JEPHTHAH Recruitment Agency is a licensed recruitment and manpower outsourcing company dedicated to connecting skilled and semi-skilled workers with verified employment opportunities abroad. We work closely with trusted international employers to ensure safe, legal, and transparent recruitment processes.Founded with the goal of reducing unemployment and promoting ethical labor migration, our agency focuses on placing candidates in sectors such as construction, hospitality, healthcare support, manufacturing, and domestic services.",
     locations: ["Kampala", "Nairobi", "Dar es Salaam"],
     contact: {
-      phone: "+256 700 000 000",
+      phone: "+256 708 317069",
       email: "jephthahrecruitment@gmail.66com"
     }
   };
